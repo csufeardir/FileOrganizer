@@ -1,5 +1,5 @@
 # FileOrganizer
-A Simple File Organization Script For Node.Js
+A Simple File Organization Script
 
 A basic JS script to work on Node.Js
 Searches the given direction and organizes files by their most common extensions.
